@@ -3,8 +3,9 @@
 
 ## Contents
 
-- **[Kubernetes](https://github.daumkakao.com/joel-kim/study-box/blob/master/Kubernetes/README.md#kubernetes-1)**
-- **[오브젝트 (Object)](https://github.daumkakao.com/joel-kim/study-box/blob/master/Kubernetes/Object.md#%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-object
+
+- **[Kubernetes](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/Kubernetes/README.md#kubernetes-1)**
+- **[오브젝트 (Object)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/Kubernetes/Object.md#%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-object
 )**
   - Pod
   - Volume
@@ -12,14 +13,14 @@
   - NameSpace
   - 라벨 (Label)
   - 라벨 셀렉터 (Label Selector)
-- **[컨트롤러](https://github.daumkakao.com/joel-kim/study-box/blob/master/Kubernetes/Controller.md#%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-controller)**
+- **[컨트롤러](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/Kubernetes/Controller.md#%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-controller)**
   - Replication Controller
   - Deployment
   - DaemonSet
   - Job
   - CronJob
   - Stateful
-- **[Kubectl](https://github.daumkakao.com/joel-kim/study-box/blob/master/Kubernetes/kubectl.md#kubectl)**
+- **[Kubectl](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/Kubernetes/kubectl.md#kubectl)**
   - Kubectl 문법
 
 
