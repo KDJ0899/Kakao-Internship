@@ -24,54 +24,55 @@
 - **[Swagger](https://github.com/go-swagger/go-swagger)**
 
 ## Contents
-- **[Go 주요 특징](https://github.daumkakao.com/joel-kim/study-box/tree/master/go#go-%EC%A3%BC%EC%9A%94-%ED%8A%B9%EC%A7%95)**
-- **[패키지 (Package)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/package.md)**
+
+- **[Go 주요 특징](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go#go-%EC%A3%BC%EC%9A%94-%ED%8A%B9%EC%A7%95)**
+- **[패키지 (Package)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/package.md)**
   - Main Package
   - init 함수와 alias
-- **[함수 (Function)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/function.md)**
+- **[함수 (Function)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/function.md)**
   - 가변 인자 함수
   - 익명 함수
   - type문을 사용해 함수 원형 정의
   - 클로저 (Clouser)
-- **[변수 (Variable)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/variable.md)**
-- **[반복문 (Loop) - for](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/loop.md)**
-- **[조건문 (Condition) - if](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/condition.md)**
-- **[자료형 (Data Type)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/data_type.md)**
+- **[변수 (Variable)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/variable.md)**
+- **[반복문 (Loop) - for](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/loop.md)**
+- **[조건문 (Condition) - if](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/condition.md)**
+- **[자료형 (Data Type)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/data_type.md)**
   - 기본 자료형
   - 문자열 
   - 형변환
-- **[구조체 (Struct)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/struct.md)**
+- **[구조체 (Struct)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/struct.md)**
   - 구조체 리터럴
   - new 함수
   - 임베딩(Embedding)
   - 포인터 (Pointer)
-- **[슬라이스 (Slice)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/slice.md)**
-- **[맵 (Map)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/map.md)**
-- **[레인지 (Range)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/range.md)**
-- **[스위치 (Switch)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/switch.md)**
-- **[메소드 (Method)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/method.md)**
+- **[슬라이스 (Slice)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/slice.md)**
+- **[맵 (Map)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/map.md)**
+- **[레인지 (Range)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/range.md)**
+- **[스위치 (Switch)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/switch.md)**
+- **[메소드 (Method)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/method.md)**
   - 포인터 리시버
-- **[인터페이스 (Interface)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/interface.md)**
+- **[인터페이스 (Interface)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/interface.md)**
   - 덕 타이핑(Duck Typing)
   - 빈 인터페이스 사용하기
-- **[에러 (Error)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/error.md)**
-- **[웹서버 (HTTP)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/HTTP.md#%EC%9B%B9%EC%84%9C%EB%B2%84-http)**
+- **[에러 (Error)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/error.md)**
+- **[웹서버 (HTTP)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/HTTP.md#%EC%9B%B9%EC%84%9C%EB%B2%84-http)**
   - Http.Handler 인터페이스
   - Http.HandelFunc
   - ServeMux
-- **[고루틴 (GoRoutine)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/go_routine.md)**
-- **[채널 (Channel)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/channel.md)**
+- **[고루틴 (GoRoutine)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/go_routine.md)**
+- **[채널 (Channel)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/channel.md)**
   - Go 채널 버퍼링
   - 채널 닫기
   - 채널 닫기 
   - 채널 Range문
   - 채널 Select문
-- **[동기화 객체](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/sync_object.md)**
-- **[Defer & Panic](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/defer_and_panic.md)**
+- **[동기화 객체](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/sync_object.md)**
+- **[Defer & Panic](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/defer_and_panic.md)**
   - Defer
   - Panic
   - Recover
-- **[컨텍스트 (Context)](https://github.daumkakao.com/joel-kim/study-box/blob/master/go/context.md#%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-context)**
+- **[컨텍스트 (Context)](https://github.com/KDJ0899/Kakao-Internship/tree/master/study-box/go/context.md#%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-context)**
   - Cancelation
   - Timeout & Deadline
   
